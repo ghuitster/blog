@@ -1,0 +1,5 @@
+Title: Ethical Ethics
+Date: 2013-12-10
+Category: Ethics
+
+Why make ethical decisions? Good people are not guaranteed an easy life. Dictators, drug dealers, mob bosses, corrupt politicians, embezzling CEOs, human traffickers and countless other groups of people live unethical lives; they enjoy riches, power and fame. I believe that those benefits do not bring true happiness. Additionally, riches, fame, and power do not go with you to the next life. I firmly believe that relationships, knowledge, our testimonies, self-control and other character traits are what really matter; those traits are more easily developed when we live our lives ethically. My testimony of Jesus Christ moves me to become more like him and live a more pure life. For anyone who is confused about ethics and life, I encourage you to come to know Christ.

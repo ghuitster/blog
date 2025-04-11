@@ -1,0 +1,5 @@
+Title: Roof top solar power
+Date: 2017-09-01
+Category: Personal
+
+I'm trying to get the word out to everyone. We recently decided to get solar power on our roof. We went with SolarCity (Tesla's solar provider) and did a partial system. It's about 3 KW. It will offset 45% of our usage. Total cost was about $10000. Cost after tax credits will be $4500. We plan to have it paid off completely in 1 year. With that price the break even point from money saved on the power bill is 5.5 years. Eventually it should also increase the value of our home by about $6000, which is all gravy. It makes lots of sense especially because it gets us out of the most expensive tier of power that Rocky Mountain Power has. So, if you can't afford to go with a full offset system, get a partial system! I'd love to chat if you have questions.

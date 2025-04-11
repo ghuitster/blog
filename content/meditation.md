@@ -1,0 +1,5 @@
+Title: Meditation
+Date: 2018-03-01
+Category: Personal
+
+30 days ago I started doing daily meditation. I've meditated every day since I started. And boy is it awesome! [Headspace](https://www.headspace.com/) has been my guide of choice. There's a former monk doing the guides and his voice is super soothing and peaceful. He's also really great at guiding me through mindfulness. Some days I'm not very good at being present and mindful. Some days, I'm really good at just being present with myself. I generally meditate for 10-15 minutes per day. Right after I wake up has proven to be the best time to find my "Headspace." It's funny, I can't say what specific things are better because I meditate every day. It's more of a general feeling of betterness (I know that's not a word). Some days meditation helps me be a better co-worker and friend. Some days I am just more conscious of the decisions I make and what I do in life. I can definitively say that daily meditation has brought me happiness, and I suggest anyone give it a shot!

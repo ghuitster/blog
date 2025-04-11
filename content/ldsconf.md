@@ -1,0 +1,5 @@
+Title: #ldsconf
+Date: 2013-10-06
+Category: Personal
+
+So as an extra credit assignment for my CS 404 class I followed \#ldsconf on twitter during the Sunday afternoon session of General Conference. Not something I'll likely ever do again. Because I was having this private interaction with my laptop I felt disconnected from Jessica. Honestly it was tough to feel the Spirit though all the random tweets about the fly, immature bondage talk and that women should get the priesthood. It felt more like a huge Sunday School lesson than conference. On top of that, it was demanding to follow the live feed, there was a new tweet almost every second. When I read Twitter now I like to read at my leisure and take my time to check the websites mentioned, that kind of thing. I couldn't begin to read everything everyone was saying. However, I did like seeing others insights and impressions of what they were getting out of the talks. I just wasn't getting much out of them. The time also went by much more quickly and I didn't fall asleep. I would recommend that you do it once and see if you like it.

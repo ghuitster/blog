@@ -1,0 +1,5 @@
+Title: What Technology Promises
+Date: 2012-09-12
+Category: Tech Musings
+
+I get angry when people who are not party of the technology industry pretend to be informed about what technology wants or is. They make the true statement that the Age of Information has not made society any wiser. That is then followed by the false statement that technology promises wisdom. Technology and the Age of Information aspire to easily provide vast amounts of information to everyone. Technology does not promise or aspire to impart wisdom. If there is a question I can easily find the answer to using Google then that question, and its answer, does not make me wiser. Anyone who believes otherwise has come to that erroneous conclusion themselves. Technology gives me the power to clear my head of useless information that can be found online; instead I can focus on filling my mind with memories of the date my wife and I went on last week or experiences that expanded my testimony of Jesus Christ.

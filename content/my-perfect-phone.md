@@ -1,0 +1,8 @@
+Title: My Perfect Phone
+Date: 2013-12-18
+Category: Tech Musings
+
+I recently read an article about a new company working to make the prefect phone and it got me thinking. What would my perfect phone be? And I have a few thoughts. Start with the Nexus 5. Make the screen about .3" smaller on the diagonal. Then shrink the bezel until it's almost gone. Then, get rid of the headphone jack and USB port. I want a phone with no holes. The charging is done wirelessly. The headphones will be Bluetooth. I would prefer no power or volume buttons as well. 
+
+Notifications like in the Moto X. There is a USB adapter that comes with the phone that also uses Bluetooth to allow for ADB and file transfer to the computer and such. The back is removable so you can replace the battery, but the back plate is air tight. There are SIM and microSD card slots by the battery. The phone will be similar in size and finish to the Nexus 5, but with the heavier feel of a Droid X. The microphones have no openings, they are vibration based. The earpiece also doesn’t have an opening, it is just behind a thinner piece of plastic so you can still hear. The phone will run Android, because that’s the closest to perfect any phone OS has come. The camera doesn’t need to be amazing, but there does need to be a flash. The front camera also doesn’t need to be amazing. The inside specs should be good, but not super computer status. Quad core and 2 GB of RAM is more than enough.  
+I realize this isn’t a reality at the moment, and I don’t want to hear naysaying. This is my perfect phone.

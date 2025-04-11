@@ -1,0 +1,5 @@
+Title: Cyanogen Inc.?
+Date: 2013-09-24
+Category: Tech Musings
+
+CyanogenMod recently announced the formation of a for-profit company, Cyanogen Inc. This is huge for the Android custom ROM community. Personally, I’m nervous and worried. I’m concerned that taking an open-source project and turning it into a for-profit project will either kill the project or change its user base. I think fewer people are going to contribute to an open-source project if someone is making money from it (others have the same issue). I wanted to jump in and start contributing to CyanogenMod when I had more free time. Now I’m thinking about finding another open-source version of Android to contribute to. Most open source companies that make money do so by selling corporate support or value-added plugins (Red Hat, WordPress, MySQL). If CyanogenMod wants to do that they will need to branch out to the corporate market - a complete shift in their target market. CyanogenMod has always been about the community; I hope Cyanogen Inc. doesn't change.

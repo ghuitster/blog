@@ -1,0 +1,5 @@
+Title: New Chromebook
+Date: 2013-10-08
+Category: Tech Musings
+
+Google is forging onward with Chrome OS and announced the new HP Chromebook 11. I love the idea of a Chromebook: a portable, thin client with great battery life. I have a powerful desktop that I use for my CPU heavy tasks so I have no need for a powerful laptop too. I recently purchased a new laptop and I seriously considered buying a new Chromebook instead. The thing that held me back was the possibility that I wouldn’t always have Internet access. For example, I went to Missouri this past summer for my job with the BYU Archaeology department. I was out in the middle of nowhere without Internet access and needed to work. This situation is unlikely for the average consumer. I frequently have people asking me what computer they should buy. If they plan to listen to music, watch YouTube, check Facebook and write papers I always encourage them to look at buying a Chromebook. They get all the desired functionality at a much cheaper price.

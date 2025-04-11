@@ -1,0 +1,5 @@
+Title: Stability vs Polish
+Date: 2013-11-14
+Category: Tech Musings
+
+I recently switched my laptop from Windows 8.1 to Ubuntu. I’ve played with Ubuntu in the past and this is another, probably temporary, switch away from Windows. I switched because I was getting the occasional BSOD. I’ve noticed that, in general, Ubuntu is more stable than Windows, but it is also less polished overall. I’ve noticed that this is the case for other open and closed source matchups such as Libre Office and Microsoft Office, gedit and Sublime Text. The reason for this is a subtle one. Closed source projects usually make money from selling their software. That means the product must be attractive, easy to use and have lots of functionality. Open source projects generally make money from support of their software. That means the interface doesn’t have to be pretty, just functional. Users can save money on support if the product is rock solid. The beauty of open source is that users can become developers and solve stability issues. This leads to an extremely stable product.

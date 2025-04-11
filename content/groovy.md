@@ -1,0 +1,5 @@
+Title: Groovy
+Date: 2018-01-16
+Category: Work Thoughts
+
+At my [day job](https://mastercontrol.com) we've been spending lots of time recently trying to get our build into a Jenkinsfile. That's a way to, in code, declare your deployment pipeline. The language of choice is Groovy. And man is it a fun language! I knew I liked it before, but after playing around in Ruby for the past few months I appreciate Groovy even more. Getting the massive Java standard libraries, the optimizations of the JVM, and pleasing to read. Also, lots of syntactic sugar and cool built-in methods to make things easier. I'm finding myself wanting to write something on Grails just for fun! And you bet my Gradle builds are going to get better and cleaner now that I know the language better. If you've never tried Groovy before, I highly recommend it.

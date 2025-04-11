@@ -1,0 +1,5 @@
+Title: Family History
+Date: 2013-10-3
+Category: Personal
+
+I’ve never been interested in family history. The only family history work I’ve ever done was when I was called as a Record Indexer for a few months. My mom and grandparents have tried several times to get me interested in family history, but I always evade them with excuses of being too busy. I feel guilty during general conference and Sunday school lessons on family history. I feel the most guilty when I see my grandparents doing genealogy. They struggle with using computers and all these new technologies. Their hands are much slower than they used to be. I think, “How much faster could I be at doing the same things they do? I don’t have their experience though, so it’s okay that I don’t do family history.” The reality is that I’m scared. Family history is such an important work and I’m worried that I’ll mess it up. Enter Kinpoint, a new project intended to help people with only 20 minutes do genealogy. After hearing about this project my interest in family history work has been piqued; my guilt and fear have been lessened by Kinpoint.

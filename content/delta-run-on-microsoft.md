@@ -1,0 +1,5 @@
+Title: Delta run on Microsoft?
+Date: 2013-10-01
+Category: Tech Musings
+
+Microsoft just announced that Delta Airlines will be purchasing 11,000 Surface 2 RTs and 19,000 Nokia Lumia 820s. The Surfaces are for pilots to replace heavy bags of paper charts and manuals; the Lumias are for flight attendants to charge credit cards. My first technological love was a mobile device and I’m excited to see more people using them on a daily basis. I sympathize with the pilots and their heavy bags. When I started buying digital textbooks my backpack became considerably lighter. I now loathe carrying around more paper than is absolutely necessary. I recently went to Swiss Days and every merchant I went to was using a phone for credit card payments. Mobile Operating Systems are more secure and easier to use, which I believe is why businesses are finally beginning to use them on a large scale. Microsoft enjoys the $10M paycheck.
