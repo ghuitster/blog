@@ -9,7 +9,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-THEME = "/home/david/pelican-themes/gum"
+THEME = "./theme/gum"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
